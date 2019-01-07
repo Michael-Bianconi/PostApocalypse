@@ -1,0 +1,14 @@
+notes:
+
+    raylib uses degrees, cmath uses radians
+    "camera.rotation = -player.rotation" will make the camera's rotation lock
+        on the player, but it's hard to drive with it.
+
+todo:
+
+    make the handling tighter
+    make the zombies chase the player more naturally
+    make the roads more natural
+    make the bushes prettier
+    house rotations
+    collision detection and handling
